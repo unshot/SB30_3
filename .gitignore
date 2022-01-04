@@ -1,0 +1,13 @@
+SB_30_3
+CMakeCache.txt
+CMakeFiles/
+Makefile
+_deps/
+cmake_install.cmake
+libcpr.so
+libcpr.so.1
+libcpr.so.1.7.0
+libcurl-d.so
+libz.so
+libz.so.1
+libz.so.1.2.11.zlib-ng
